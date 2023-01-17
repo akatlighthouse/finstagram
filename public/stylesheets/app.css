@@ -1,0 +1,27 @@
+header {    
+    background-color: #244751;
+    color: #e8fdff
+}
+body {
+    background-color: whitesmoke;
+    font-family: 'poppins', poppins;
+  }
+  main {
+    background-color: white;
+    padding: 16px;
+  }
+
+  .hudanigram-post {
+    margin-bottom: 48px;
+  }
+
+  .hudanigram-post .user-info img {
+    border-radius: 50%;
+  }
+
+  a.photo{
+    transition: padding 0.5s;
+  }
+  a.photo:hover{
+    padding: 10px;
+  }
